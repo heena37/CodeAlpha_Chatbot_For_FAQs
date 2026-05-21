@@ -19,10 +19,10 @@ NLP (Natural Language Processing)
 
 ## Screenshots:
 -Home Page
-  (Screenshot 2026-05-21 090319.png)
+  (Screenshot 2026-05-21 093740.png)
 
 -Chatbot Response
-  (Screenshot 2026-05-21 084530.png)
+  (Screenshot 2026-05-21 093758.png)
 
 ## How to Run the Project
 1. Install required libraries
